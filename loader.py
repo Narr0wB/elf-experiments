@@ -118,4 +118,4 @@ if __name__ == "__main__":
         file.seek(0x2000)
         file.write(data_segment)
     
-    print("Created new_elf file")
+    print("Created new elf file")
